@@ -1,0 +1,35 @@
+[date]
+3 October 2025
+
+[clang-ver]
+M•R•T clang version 22.0.0git (https://github.com/llvm/llvm-project 5bbf72400cfeb8f4e205e9ff1c98d34d2997796c)
+
+[lld-ver]
+M•R•T LLD 22.0.0 (https://github.com/llvm/llvm-project 5bbf72400cfeb8f4e205e9ff1c98d34d2997796c) (compatible with GNU linkers)
+
+[llvm-commit]
+https://github.com/llvm/llvm-project/commit/5bbf72400cfeb8f4e205e9ff1c98d34d2997796c
+
+[llvm-commit-msg]
+[X86] Add bytecode / -fexperimental-new-constant-interpreter VPMADD52 intrinsics test coverage (#161684)
+
+[host-glibc]
+2.35
+
+[size-gzip]
+87Mb
+
+[size-xz]
+58Mb
+
+[link-rel-gzip]
+https://github.com/MRT-project/mrt_clang/releases/download/03102025/mrt-clang-22.0.0git-03102025.tar.gz
+
+[link-rel-xz]
+https://github.com/MRT-project/mrt_clang/releases/download/03102025/mrt-clang-22.0.0git-03102025.tar.xz
+
+[shasum-gzip]
+8de7bd323a9fc12cb407df5db2572ef2577a9ff077aa3ebe0d0341f0edb78aea
+
+[shasum-xz]
+be936a6512fc285a85b44bbcb4654a6f5dddf8aa103390752e9020f30c100471
